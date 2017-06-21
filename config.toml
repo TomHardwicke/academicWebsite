@@ -1,0 +1,32 @@
+baseurl = "https://www.example.com/"
+title = "Tom Hardwicke"
+author = "Tom Hardwicke"
+canonifyurls = true
+languagecode = "en"
+theme = "hugo-black-and-light-theme"
+
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
+
+[params]
+  sitename = "Tom Hardwicke"
+  position = "Postdoctoral Fellow"
+  department = "Meta Research Innovation Center at Stanford (METRICS)"
+  university = "Stanford University"
+
+[[menu.main]]
+    name = "Publications"
+    url  = "/publications/"
+    weight = 1
+[[menu.main]]
+    name = "OSF"
+    url  = "https://osf.io/i8w73/"
+    weight = 2
+[[menu.main]]
+    name = "CV"
+    url  = "/docs/CV.pdf"
+    weight = 3
+[[menu.main]]
+    name = "Contact"
+    url  = "mailto:tom.hardwicke@stanford.edu"
+    weight = 4
