@@ -1,4 +1,4 @@
-baseurl = "https://www.example.com/"
+baseurl = "https://tomhardwicke.netlify.com/"
 title = "Tom Hardwicke"
 author = "Tom Hardwicke"
 canonifyurls = true
