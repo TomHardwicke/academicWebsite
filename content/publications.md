@@ -4,6 +4,8 @@ layout = "page"
 
 ### Peer-reviewed journal articles
 
+Cristea, I. A., Naudet, F., Shanks, D. R., **Hardwicke, T. E.** (*in press*). Post-retrieval Tetris should not be likened to a ‘cognitive vaccine’. *Molecular Psychiatry*.
+
 Kidwell, M. C., Lazarević, L. B., Baranski, E., **Hardwicke, T. E.**, Piechowski, S., Falkenberg, L-S., Kennett, C., Slowik, A., Sonnleitner, C., Hess-Holden, C., Errington, T. M., Fiedler, S., & Nosek, B. A. (2016). Badges to acknowledge open practices: A simple, low cost, effective method for increasing transparency. *PLoS Biology*, *14*, 1-15. [[doi]](https://dx.doi.org/10.1371/journal.pbio.1002456) [[osf]](https://osf.io/rfgdw/) [[pdf]](/docs/openBadges.pdf)
 
 **Hardwicke, T. E.**, Mahdi, T., & Shanks, D. R. (2016). Post-retrieval new learning does not reliably induce human memory updating via reconsolidation. *Proceedings of the National Academy of Sciences of the United States of America*, *113*, 5206-5211. [[doi]](https://dx.doi.org/10.1073/pnas.1601440113) [[osf]](https://osf.io/gpeq4/) [[pdf]](/docs/sequenceRecon.pdf)
