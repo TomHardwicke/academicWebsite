@@ -2,6 +2,8 @@
 layout = "page"
 +++
 
+Pre-registered study protocols, experimental materials and software, analysis scripts, and raw data, are available via the The Open Science Framework and can be accessed by following the [osf] links provided at the end of each publication entry.  
+
 ### Peer-reviewed journal articles
 
 Cristea, I. A., Naudet, F., Shanks, D. R., & **Hardwicke, T. E.** (2017). Post-retrieval Tetris should not be likened to a ‘cognitive vaccine’. *Molecular Psychiatry*. [Advance online publication](http://rdcu.be/xXsi).
