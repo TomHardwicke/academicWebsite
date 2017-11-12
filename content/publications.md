@@ -1,8 +1,8 @@
 +++
 layout = "page"
 +++
-
 Pre-registered study protocols, experimental materials and software, analysis scripts, and raw data, are available via the The Open Science Framework and can be accessed by following the [osf] links provided at the end of each publication entry.  
+
 
 ### Peer-reviewed journal articles
 
