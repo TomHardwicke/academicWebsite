@@ -13,7 +13,7 @@ Kidwell, M. C., Lazarević, L. B., Baranski, E., **Hardwicke, T. E.**, Piechowsk
 **Hardwicke, T. E.**, Mahdi, T., & Shanks, D. R. (2016). Post-retrieval new learning does not reliably induce human memory updating via reconsolidation. *Proceedings of the National Academy of Sciences of the United States of America*, *113*, 5206-5211. [[doi]](https://dx.doi.org/10.1073/pnas.1601440113) [[osf]](https://osf.io/gpeq4/) [[pdf]](/docs/sequenceRecon.pdf)
 
 <div style="margin-left: 1em; text-align: left"><p style="text-align: left">
-A commentary on the above paper has been published <a href="https://dx.doi.org/10.1073/pnas.1607964113">here</a> <a href="/docs/sequenceReconComment.pdf">[pdf]</a> and our response is available below:<br /><br />
+A commentary on the above paper has been published <a href="https://dx.doi.org/10.1073/pnas.1607964113">here</a> <a href="/docs/sequenceReconComment.pdf">[pdf]</a>. Our response:<br /><br />
 <b>Hardwicke, T. E.</b> & Shanks, D. R. (2016). Reply to Walker and Stickgold: Proposed boundary conditions on memory reconsolidation will require empirical verification. <em>Proceedings of the National Academy of Sciences of the United States of America</em>, <em>113</em>, 1-2.  <a href="https://dx.doi.org/10.1073/pnas.1608235113">[doi]</a> <a href="https://osf.io/gpeq4/">[osf]</a> <a href="/docs/sequenceReconReply.pdf">[pdf]</a>
 </p></div>
 
