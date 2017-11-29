@@ -24,7 +24,7 @@ pygmentscodefences  = true
     weight = 2
 [[menu.main]]
     name = "CV"
-    url  = "/docs/CV.pdf"
+    url  = "/docs/Hardwicke_cv.pdf"
     weight = 3
 [[menu.main]]
     name = "Contact"
