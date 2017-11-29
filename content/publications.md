@@ -25,7 +25,7 @@ Ludwig, C. J. H., Farrell, S., Ellis, L. A., **Hardwicke, T. E.**, & Gilchrist, 
 
 ### Other publications
 
-**Hardwicke, T. E.** (2017). Persistence and plasticity in the human memory system: An empirical investigation of the overwriting hypothesis. *PhD Thesis*. [[doi]](https://dx.doi.org/10.17605/OSF.IO/R4C32) [[osf]](https://osf.io/rxtgs/) [[pdf]](/docs/Hardwicke_thesis.pdf)
+**Hardwicke, T. E.** (2016). Persistence and plasticity in the human memory system: An empirical investigation of the overwriting hypothesis. *PhD Thesis*. [[doi]](https://dx.doi.org/10.17605/OSF.IO/R4C32) [[osf]](https://osf.io/rxtgs/) [[pdf]](/docs/Hardwicke_thesis.pdf)
 
 **Hardwicke, T. E.**, Jameel, L., Jones, M., Walczak, E. J., & Magis-Weinberg, L. (2014). Only human: Scientists, systems, and suspect statistics. *Opticon1826*, *(16):25*, 1-12. [[doi]](http://dx.doi.org/10.5334/opt.ch) [[pdf]](/docs/onlyHuman.pdf)
 
