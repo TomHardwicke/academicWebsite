@@ -1,12 +1,14 @@
 +++
 layout = "page"
 +++
-<small>Pre-registered study protocols, experimental materials and software, analysis scripts, and raw data, are available via the The Open Science Framework and can be accessed by following the [osf] links provided at the end of each publication entry.</small>
+<small>Pre-registered study protocols, experimental materials and software, analysis scripts, and data, are available via the The Open Science Framework and can be accessed by following the [osf] links provided at the end of each publication entry.</small>
 
 
 ### Peer-reviewed journal articles
 
 Cristea, I. A., Naudet, F., Shanks, D. R., & **Hardwicke, T. E.** (2017). Post-retrieval Tetris should not be likened to a ‘cognitive vaccine’. *Molecular Psychiatry*. [[doi]](http://dx.doi.org/10.1038/mp.2017.222) [[osf]](https://osf.io/2mcra/) [[pdf]](http://rdcu.be/xXsi)
+
+Hardwicke, T. E. (2017). Persistence and plasticity in the human memory system: An empirical investigation of the overwriting hypothesis. *PhD Thesis*. [[doi]](https://dx.doi.org/10.17605/OSF.IO/R4C32) [[osf]](https://osf.io/rxtgs/) [[pdf]](/docs/Hardwicke_thesis.pdf)
 
 Kidwell, M. C., Lazarević, L. B., Baranski, E., **Hardwicke, T. E.**, Piechowski, S., Falkenberg, L-S., Kennett, C., Slowik, A., Sonnleitner, C., Hess-Holden, C., Errington, T. M., Fiedler, S., & Nosek, B. A. (2016). Badges to acknowledge open practices: A simple, low cost, effective method for increasing transparency. *PLOS Biology*, *14*, 1-15. [[doi]](https://dx.doi.org/10.1371/journal.pbio.1002456) [[osf]](https://osf.io/rfgdw/) [[pdf]](/docs/openBadges.pdf)
 
