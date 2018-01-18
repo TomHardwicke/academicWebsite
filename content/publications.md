@@ -4,7 +4,7 @@ layout = "page"
 <small>Pre-registered study protocols, experimental materials and software, analysis scripts, and data, are available via the The Open Science Framework and can be accessed by following the [osf] links provided at the end of each publication entry.</small>
 
 ### Submitted / under review
-Hardwicke, T. E., Tessler, M. H., Peloquin, B., & Frank, M. C. (*submitted*). A Bayesian decision-making framework for replication. [[Preprint]](https://psyarxiv.com/n3yah/).
+**Hardwicke, T. E.**, Tessler, M. H., Peloquin, B., & Frank, M. C. (*submitted*). A Bayesian decision-making framework for replication. [[Preprint]](https://psyarxiv.com/n3yah/).
 
 ### Peer-reviewed journal articles
 
@@ -16,7 +16,7 @@ Kidwell, M. C., Lazarević, L. B., Baranski, E., **Hardwicke, T. E.**, Piechowsk
 
 <div style="margin-left: 1em; text-align: left"><p style="text-align: left">
 A commentary on the above paper has been published <a href="https://dx.doi.org/10.1073/pnas.1607964113">here</a> <a href="/docs/sequenceReconComment.pdf">[pdf]</a>. Our response:<br /><br />
-<b>Hardwicke, T. E.</b> & Shanks, D. R. (2016). Reply to Walker and Stickgold: Proposed boundary conditions on memory reconsolidation will require empirical verification. <em>Proceedings of the National Academy of Sciences of the United States of America</em>, <em>113</em>, 1-2.  <a href="https://dx.doi.org/10.1073/pnas.1608235113">[doi]</a> <a href="https://osf.io/gpeq4/">[osf]</a> <a href="/docs/sequenceReconReply.pdf">[pdf]</a>
+<strong>Hardwicke, T. E.</strong> & Shanks, D. R. (2016). Reply to Walker and Stickgold: Proposed boundary conditions on memory reconsolidation will require empirical verification. <em>Proceedings of the National Academy of Sciences of the United States of America</em>, <em>113</em>, 1-2.  <a href="https://dx.doi.org/10.1073/pnas.1608235113">[doi]</a> <a href="https://osf.io/gpeq4/">[osf]</a> <a href="/docs/sequenceReconReply.pdf">[pdf]</a>
 </p></div>
 
 Vadillo, M. A., **Hardwicke, T. E.**, & Shanks, D. R. (2016). Selection bias, vote counting, and money priming effects: A comment on Rohrer, Pashler, and Harris (2015) and Vohs (2015). *Journal of Experimental Psychology: General*, *145*, 655-663. [[doi]](https://dx.doi.org/10.1037/xge0000157) [[osf]](https://osf.io/4e3gy/) [[pdf]](/docs/moneyPriming.pdf)
