@@ -11,7 +11,7 @@ pygmentscodefences  = true
 [params]
   sitename = "Tom Hardwicke"
   position = "Postdoctoral Fellow"
-  department = "Meta Research Innovation Center at Stanford (METRICS)"
+  department = "Meta-Research Innovation Center at Stanford (METRICS)"
   university = "Stanford University"
 
 [[menu.main]]
