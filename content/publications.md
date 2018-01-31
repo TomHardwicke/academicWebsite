@@ -4,7 +4,7 @@ layout = "page"
 <small>Pre-registered study protocols, experimental materials and software, analysis scripts, and data, are available via The Open Science Framework and can be accessed by following the [osf] links provided at the end of each publication entry.</small>
 
 ### Submitted / under review
-**Hardwicke, T. E.**, Tessler, M. H., Peloquin, B., & Frank, M. C. (*submitted*). A Bayesian decision-making framework for replication. [[Preprint]](https://psyarxiv.com/n3yah/).
+**Hardwicke, T. E.**, Tessler, M. H., Peloquin, B., & Frank, M. C. (*in press*). A Bayesian decision-making framework for replication. [[Preprint]](https://psyarxiv.com/n3yah/).
 
 ### Peer-reviewed journal articles
 
