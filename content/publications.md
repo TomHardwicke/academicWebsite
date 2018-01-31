@@ -3,10 +3,9 @@ layout = "page"
 +++
 <small>Pre-registered study protocols, experimental materials and software, analysis scripts, and data, are available via The Open Science Framework and can be accessed by following the [osf] links provided at the end of each publication entry.</small>
 
-### Submitted / under review
-**Hardwicke, T. E.**, Tessler, M. H., Peloquin, B., & Frank, M. C. (*in press*). A Bayesian decision-making framework for replication. [[Preprint]](https://psyarxiv.com/n3yah/).
-
 ### Peer-reviewed journal articles
+
+**Hardwicke, T. E.**, Tessler, M. H., Peloquin, B., & Frank, M. C. (*in press*). A Bayesian decision-making framework for replication. [[Preprint]](https://psyarxiv.com/n3yah/).
 
 Cristea, I. A., Naudet, F., Shanks, D. R., & **Hardwicke, T. E.** (2017). Post-retrieval Tetris should not be likened to a ‘cognitive vaccine’. *Molecular Psychiatry*, 1-2. [[doi]](http://dx.doi.org/10.1038/mp.2017.222) [[osf]](https://osf.io/2mcra/) [[pdf]](http://rdcu.be/xXsi)
 
