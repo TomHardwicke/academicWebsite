@@ -5,6 +5,8 @@ layout = "page"
 
 ### Peer-reviewed journal articles
 
+**Hardwicke, T. E.**, Mathur, M. B., MacDonald, K. E., Nilsonne, G., Banks, G. C., Kidwell, M. C., Hofelich Mohr, A., Clayton, E., Yoon, E. J., Henry Tessler, M., Lenne, R. L., Altman, S., Long, B., & Frank, M. C. (submitted). Data availability, reusability, and analytic reproducibility: Evaluating the impact of a mandatory open data policy at the journal Cognition. [[Preprint]](https://osf.io/preprints/bitss/39cfb).
+
 **Hardwicke, T. E.**, Tessler, M. H., Peloquin, B., & Frank, M. C. (in press). A Bayesian decision-making framework for replication. *Behavioural and Brain Sciences*. [[Preprint]](https://psyarxiv.com/n3yah/).
 
 Cristea, I. A., Naudet, F., Shanks, D. R., & **Hardwicke, T. E.** (2017). Post-retrieval Tetris should not be likened to a ‘cognitive vaccine’. *Molecular Psychiatry*, 1-2. [[doi]](http://dx.doi.org/10.1038/mp.2017.222) [[osf]](https://osf.io/2mcra/) [[pdf]](http://rdcu.be/xXsi)
