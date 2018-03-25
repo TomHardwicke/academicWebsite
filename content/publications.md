@@ -3,11 +3,13 @@ layout = "page"
 +++
 <small>Pre-registered study protocols, experimental materials and software, analysis scripts, and data, are available via The Open Science Framework and can be accessed by following the [osf] links provided at the end of each publication entry.</small>
 
-### Forthcoming articles 
+### Forthcoming articles
 
-**Hardwicke, T. E.**, Mathur, M. B., MacDonald, K. E., Nilsonne, G., Banks, G. C., Kidwell, M. C., Hofelich Mohr, A., Clayton, E., Yoon, E. J., Henry Tessler, M., Lenne, R. L., Altman, S., Long, B., & Frank, M. C. (submitted). Data availability, reusability, and analytic reproducibility: Evaluating the impact of a mandatory open data policy at the journal Cognition. [[Preprint]](https://osf.io/preprints/bitss/39cfb).
+Klein, O., **Hardwicke, T. E.**, Aust, F., Breuer, J., Danielsson, H., Hofelich Mohr, A., IJzerman, H., Nilsonne, G., Vanpaemel, W., & Frank, M. C. (submitted). A practical guide for transparency in psychological science. [[osf]](https://osf.io/xf6ug/) [[preprint]](https://dx.doi.org/10.17605/OSF.IO/RTYGM).
 
-**Hardwicke, T. E.**, Tessler, M. H., Peloquin, B., & Frank, M. C. (in press). A Bayesian decision-making framework for replication. *Behavioural and Brain Sciences*. [[Preprint]](https://psyarxiv.com/n3yah/).
+**Hardwicke, T. E.**, Mathur, M. B., MacDonald, K., Nilsonne, G., Banks, G. C., Kidwell, M. C., Hofelich Mohr, A., Clayton, E., Yoon, E. J., Henry Tessler, M., Lenne, R. L., Altman, S., Long, B., & Frank, M. C. (submitted). Data availability, reusability, and analytic reproducibility: Evaluating the impact of a mandatory open data policy at the journal Cognition. [[osf]](https://osf.io/wn8fd/) [[Preprint]](https://dx.doi.org/10.17605/OSF.IO/39CFB).
+
+**Hardwicke, T. E.**, Henry Tessler, M., Peloquin, B., & Frank, M. C. (in press). A Bayesian decision-making framework for replication. *Behavioral and Brain Sciences*. [[Preprint]](https://dx.doi.org/10.17605/OSF.IO/N3YAH).
 
 ### Peer-reviewed journal articles
 
