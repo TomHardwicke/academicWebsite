@@ -15,11 +15,11 @@ pygmentscodefences  = true
   university = "Stanford University"
 
 [[menu.main]]
-    name = "CV &#xb7"
+    name = "CV"
     url  = "/docs/Hardwicke_cv.pdf"
     weight = 1
 [[menu.main]]
-    name = "Publications &#xb7"
+    name = "Publications"
     url  = "/publications/"
     weight = 2
 [[menu.main]]
