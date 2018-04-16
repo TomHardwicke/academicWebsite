@@ -9,7 +9,7 @@ layout = "page"
 
 Klein, O., **Hardwicke, T. E.**, Aust, F., Breuer, J., Danielsson, H., Hofelich Mohr, A., IJzerman, H., Nilsonne, G., Vanpaemel, W., & Frank, M. C. (submitted). A practical guide for transparency in psychological science. [[osf]](https://osf.io/xf6ug/) [[preprint]](https://dx.doi.org/10.17605/OSF.IO/RTYGM).
 
-**Hardwicke, T. E.**, Mathur, M. B., MacDonald, K., Nilsonne, G., Banks, G. C., Kidwell, M. C., Hofelich Mohr, A., Clayton, E., Yoon, E. J., Henry Tessler, M., Lenne, R. L., Altman, S., Long, B., & Frank, M. C. (submitted). Data availability, reusability, and analytic reproducibility: Evaluating the impact of a mandatory open data policy at the journal Cognition. [[pre-registration]](https://osf.io/953jc/)[[data]](https://osf.io/6s8b3/)[[analysis]](https://osf.io/wf3as/) [[materials]](https://osf.io/k2mdr/) [[preprint]](https://dx.doi.org/10.17605/OSF.IO/39CFB).
+**Hardwicke, T. E.**, Mathur, M. B., MacDonald, K., Nilsonne, G., Banks, G. C., Kidwell, M. C., Hofelich Mohr, A., Clayton, E., Yoon, E. J., Henry Tessler, M., Lenne, R. L., Altman, S., Long, B., & Frank, M. C. (submitted). Data availability, reusability, and analytic reproducibility: Evaluating the impact of a mandatory open data policy at the journal Cognition. [[osf]](https://osf.io/wn8fd/) [[preprint]](https://dx.doi.org/10.17605/OSF.IO/39CFB).
 
 **Hardwicke, T. E.**, Henry Tessler, M., Peloquin, B., & Frank, M. C. (in press). A Bayesian decision-making framework for replication. *Behavioral and Brain Sciences*. [[preprint]](https://dx.doi.org/10.17605/OSF.IO/N3YAH).
 
