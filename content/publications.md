@@ -5,7 +5,7 @@ layout = "page"
 
 ### Forthcoming articles
 
-**Hardwicke, T. E.** & Ioannidis, J. P. A. (submitted). Populating the Data Ark: An open archive of data from highly-cited studies. [[osf]](https://osf.io/64qvb/) 
+**Hardwicke, T. E.** & Ioannidis, J. P. A. (submitted). Populating the Data Ark: An attempt to retrieve, preserve, and liberate data from the most highly-cited psychology and psychiatry articles. [[osf]](https://osf.io/64qvb/) 
 
 **Hardwicke, T. E.** & Ioannidis, J. P. A. (submitted). Mapping the universe of Registered Reports. [[osf]](https://osf.io/7dpwb/) [[preprint]](https://dx.doi.org/10.17605/OSF.IO/FZPCY)
 
