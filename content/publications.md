@@ -11,7 +11,7 @@ layout = "page"
 
 ### Peer-reviewed journal articles
 
-**Hardwicke, T. E.**, Mathur, M. B., MacDonald, K., Nilsonne, G., Banks, G. C., Kidwell, M. C., Hofelich Mohr, A., Clayton, E., Yoon, E. J., Henry Tessler, M., Lenne, R. L., Altman, S., Long, B., & Frank, M. C. (in press). Data availability, reusability, and analytic reproducibility: Evaluating the impact of a mandatory open data policy at the journal Cognition. [[osf]](https://osf.io/wn8fd/) [[preprint]](https://dx.doi.org/10.17605/OSF.IO/39CFB)
+**Hardwicke, T. E.**, Mathur, M. B., MacDonald, K., Nilsonne, G., Banks, G. C., Kidwell, M. C., Hofelich Mohr, A., Clayton, E., Yoon, E. J., Henry Tessler, M., Lenne, R. L., Altman, S., Long, B., & Frank, M. C. (in press). Data availability, reusability, and analytic reproducibility: Evaluating the impact of a mandatory open data policy at the journal Cognition. *Royal Society Open Science*. [[osf]](https://osf.io/wn8fd/) [[preprint]](https://dx.doi.org/10.17605/OSF.IO/39CFB)
 
 **Hardwicke, T. E.**, Henry Tessler, M., Peloquin, B., & Frank, M. C. (in press). A Bayesian decision-making framework for replication. *Behavioral and Brain Sciences*. [[preprint]](https://dx.doi.org/10.17605/OSF.IO/N3YAH)
 
