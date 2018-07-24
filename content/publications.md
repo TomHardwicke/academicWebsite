@@ -3,13 +3,13 @@ layout = "page"
 +++
 <small>Pre-registered study protocols, research materials and software, analysis scripts, and data, are available via The Open Science Framework and can be accessed by following the [[osf]](https://osf.io/i8w73/) links provided at the end of each publication entry.</small>
 
-### Forthcoming articles
+### Submitted / under revision
 
-**Hardwicke, T. E.** & Ioannidis, J. P. A. (under review). Populating the Data Ark: An attempt to retrieve, preserve, and liberate data from the most highly-cited psychology and psychiatry articles. [[osf]](https://osf.io/64qvb/)
-
-**Hardwicke, T. E.** & Ioannidis, J. P. A. (under review). Mapping the universe of Registered Reports. [[osf]](https://osf.io/7dpwb/) [[preprint]](https://dx.doi.org/10.17605/OSF.IO/FZPCY)
+**Hardwicke, T. E.** & Ioannidis, J. P. A. (under revision). Mapping the universe of Registered Reports. [[osf]](https://osf.io/7dpwb/) [[preprint]](https://dx.doi.org/10.17605/OSF.IO/FZPCY)
 
 ### Peer-reviewed journal articles
+
+**Hardwicke, T. E.** & Ioannidis, J. P. A. (in press). Populating the Data Ark: An attempt to retrieve, preserve, and liberate data from the most highly-cited psychology and psychiatry articles. *PLOS ONE*. [[osf]](https://osf.io/64qvb/)
 
 **Hardwicke, T. E.**, Mathur, M. B., MacDonald, K., Nilsonne, G., Banks, G. C., Kidwell, M. C., Hofelich Mohr, A., Clayton, E., Yoon, E. J., Henry Tessler, M., Lenne, R. L., Altman, S., Long, B., & Frank, M. C. (in press). Data availability, reusability, and analytic reproducibility: Evaluating the impact of a mandatory open data policy at the journal Cognition. *Royal Society Open Science*. [[osf]](https://osf.io/wn8fd/) [[preprint]](https://dx.doi.org/10.17605/OSF.IO/39CFB)
 
